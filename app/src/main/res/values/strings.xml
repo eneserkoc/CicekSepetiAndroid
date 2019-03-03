@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CicekSepetiAndroid</string>
+    <string name="google_maps_key">AIzaSyCvF7ncA53bW1rP8yjYkhWyvxosea-ZgaU </string>
+    <string name="loading_text">Loading</string>
+    <string name="cilekler_text">ÇİLEKLER</string>
+</resources>
